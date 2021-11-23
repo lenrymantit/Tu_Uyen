@@ -43,13 +43,13 @@ body{
 }
 
 .bg-home{
-	background-image: url(/Tu_Uyen/Images/About.png);
+	background-image: url(/Images/About.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
 
 .bg-star{
-	background-image: url(/Tu_Uyen/Images/Home.png);
+	background-image: url(/Images/Home.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
